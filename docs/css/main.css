@@ -1,0 +1,12 @@
+[data-component="slideshow"] .slide {
+    display: none;
+}
+
+[data-component="slideshow"] .slide.active {
+    display: block;
+}
+body{
+    background-color: black;
+    color: whitesmoke;
+    font-family: sans-serif, Verdana;
+}
